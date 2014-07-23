@@ -1,2 +1,0 @@
-class PhotosControllerController < ApplicationController
-end
